@@ -13,7 +13,7 @@ mkdir <directory name>
 ``` 
 cd <directory name>
 ```
-### tips press tab to complete full letter
+### tips: press tab to complete full letter
 
 ### opening vs code
 
