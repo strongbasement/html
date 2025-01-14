@@ -1,3 +1,6 @@
+
+
+
 ### open cmd
 
 
@@ -23,7 +26,7 @@ code .
 ![alt text](image.png)
 
 
-### go to extnsion and install live server
+### go to extensions and install live server
 
 
 ![alt text](image-1.png)
